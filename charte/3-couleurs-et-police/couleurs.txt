@@ -1,0 +1,17 @@
+COULEURS BEVIO
+==============
+
+Nom              HEX       RVB              CMJN (FOGRA39)     Usage
+---------------  --------  ---------------  -----------------  ------------------------------
+Sarcelle nuit    #0A3438   10 · 52 · 56     97 · 35 · 45 · 80  Couleur principale
+Lilas            #8E70C9   142 · 112 · 201  56 · 60 · 0 · 0    Accent sur fond clair
+Lilas clair      #B9A3E8   185 · 163 · 232  35 · 38 · 0 · 0    Accent sur fond sarcelle
+Lilas pâle       #F1EDF8   241 · 237 · 248  8 · 7 · 4 · 0      Fonds clairs
+Crème            #F2EFE9   242 · 239 · 233  7 · 5 · 9 · 0      Texte et blocs sur sarcelle
+Gris             #4A5D5F   74 · 93 · 95     71 · 45 · 48 · 40  Texte secondaire, fond clair
+Gris clair       #A9C9C6   169 · 201 · 198  40 · 10 · 24 · 0   Texte secondaire, fond sarcelle
+
+Règle de base : sarcelle pour le texte et les fonds forts, lilas en accent seulement,
+lilas pâle et crème pour les fonds clairs. Jamais de lilas en texte courant sur fond clair.
+
+Dans Canva : Kit de marque > Couleurs > ajouter les codes HEX ci-dessus.

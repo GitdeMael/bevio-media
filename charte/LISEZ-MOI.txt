@@ -1,0 +1,81 @@
+BEVIO : IDENTITÉ GRAPHIQUE + KIT INSTAGRAM (version 4, novembre 2026)
+====================================================================
+
+charte-graphique-bevio.pdf
+  Page 1 : logo, couleurs (HEX, RVB, CMJN), tailles minimales, règles.
+  Page 2 : kit Instagram (formats, profil, À la une, fonds, règles de publication).
+
+Nouveau dans la version 4 :
+  - Le nom « bevio » est plus proche du symbole dans le logo horizontal
+    (un demi-bloc d'écart, comme sur la carte de visite).
+  - Nouveau logo empilé (symbole au-dessus de « bevio »), identique au
+    verso de la carte.
+  - Tout le dossier 2-instagram.
+
+
+1-LOGO
+------
+symbole/          Le « b » en blocs seul. Couleur, fond foncé, noir, blanc.
+logo-horizontal/  Symbole + bevio côte à côte (avec ou sans accroche).
+logo-empile/      Symbole au-dessus de bevio : idéal pour un format carré
+                  ou vertical (story, fin de carrousel).
+icones-web/       Favicon et icône pour le site internet.
+
+Formats : SVG et PDF = vectoriels (à privilégier pour l'impression, Canva
+accepte aussi le SVG) ; PNG = fond transparent, prêts à l'emploi.
+« fond-clair » = à poser sur blanc, crème ou lilas pâle.
+« fond-fonce » = à poser sur sarcelle nuit.
+
+
+2-INSTAGRAM
+-----------
+photo-de-profil/
+  profil-sarcelle_1080px.png ...... recommandée (se détache bien dans le fil)
+  profil-lilas-pale_1080px.png .... alternative claire
+  Le symbole est déjà centré pour le recadrage en rond.
+
+fonds-publications/  et  fonds-stories/
+  3 fonds x 4 formats, chacun en version vide et en version « _signe »
+  (logo déjà placé en bas au centre, à la bonne taille).
+  - sarcelle-trame ... annonces, réalisations, avant / après
+  - lilas-pale-trame . conseils, carrousels pédagogiques
+  - creme-uni ........ avis clients, citations, texte long
+  Formats :
+  - post-3x4 (1080 x 1440) : RECOMMANDÉ, s'affiche en entier dans la grille
+  - post-4x5 (1080 x 1350) : classique, légèrement rogné dans la grille
+  - post-1x1 (1080 x 1080) : rogné de 135 px de chaque côté dans la grille
+  - story    (1080 x 1920) : stories et couvertures de reels
+
+couvertures-a-la-une/
+  Réalisations, Tarifs, Avis, Méthode, Contact. Deux jeux : clair et fonce.
+  Conseil : photo de profil sarcelle + couvertures claires.
+
+gabarits-zones-de-securite/
+  Calques transparents à poser AU-DESSUS de ta création pendant la mise en
+  page pour voir ce qui sera coupé ou caché par Instagram, puis à supprimer
+  avant d'exporter.
+
+
+3-COULEURS-ET-POLICE
+--------------------
+palette-bevio.png ... les 7 couleurs avec leurs codes
+couleurs.txt ........ codes HEX / RVB / CMJN à copier
+police-Inter/ ....... Inter Regular, Medium, SemiBold + Inter Display SemiBold
+                      (pour les gros titres). Gratuite, licence dans OFL.txt.
+                      Sur Windows : clic droit sur le fichier > Installer.
+
+
+UTILISATION DANS CANVA (le plus simple)
+---------------------------------------
+1. Créer un design aux dimensions du format (ex. 1080 x 1440 px).
+2. Importer le fond voulu (dossier fonds-publications) et le mettre en
+   arrière-plan.
+3. Écrire les textes en Inter (disponible directement dans Canva) :
+   titres en SemiBold, texte en Regular.
+4. Couleurs : copier les codes HEX de couleurs.txt (ou les enregistrer dans
+   le kit de marque si tu as Canva Pro).
+5. Exporter en PNG.
+
+Rappels : un seul mot en accent par visuel (lilas clair sur sarcelle,
+lilas sur fond clair, en titre seulement), 80 px de marge autour des
+textes, jamais le logo recoloré ou posé sur une photo chargée.

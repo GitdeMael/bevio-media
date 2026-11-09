@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Icône Bevio">
+  <title>Icône Bevio</title>
+  <rect width="64" height="64" rx="14" fill="#0A3438"/>
+  <rect x="16" y="7.5" width="15" height="15" rx="4" fill="#B9A3E8"/>
+  <rect x="16" y="24.5" width="15" height="15" rx="4" fill="#F2EFE9"/>
+  <rect x="33" y="24.5" width="15" height="15" rx="4" fill="#F2EFE9"/>
+  <rect x="16" y="41.5" width="15" height="15" rx="4" fill="#F2EFE9"/>
+  <rect x="33" y="41.5" width="15" height="15" rx="4" fill="#F2EFE9"/>
+</svg>
